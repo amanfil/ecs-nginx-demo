@@ -2,7 +2,7 @@
    {   "family": "nginx-demo",
     "containerDefinitions": [
         {
-            "image": "482673545144.dkr.ecr.us-west-2.amazonaws.com/nginx-demo:v_%BUILD_NUMBER%",
+            "image": "482673545144.dkr.ecr.us-west-2.amazonaws.com/nginx-demo:latest",
             "name": "nginx-demo",
             "cpu": 1,
             "memory": 256,
