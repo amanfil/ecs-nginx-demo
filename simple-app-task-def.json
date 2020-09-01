@@ -14,5 +14,18 @@
                 }
             ]
         }
+       {
+            "image": "482673545144.dkr.ecr.us-west-2.amazonaws.com/hello-world:latest",
+            "name": "hello-world",
+            "cpu": 1,
+            "memory": 256,
+            "essential": true,
+            "portMappings": [
+                {
+                    "containerPort": 80,
+                    "hostPort": 8082
+                }
+            ]
+        }
     ]
 }
