@@ -1,5 +1,5 @@
 
-   {   "family": "nginx-demo",
+   {   "family": "nginx-demo-name",
     "containerDefinitions": [
         {
             "image": "482673545144.dkr.ecr.us-west-2.amazonaws.com/nginx-demo:latest",
