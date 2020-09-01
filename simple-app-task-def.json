@@ -13,7 +13,7 @@
                     "hostPort": 8081
                 }
             ]
-        }
+        },
        {
             "image": "482673545144.dkr.ecr.us-west-2.amazonaws.com/hello-world:latest",
             "name": "hello-world",
